@@ -41,15 +41,15 @@ export const modelData: ModelData = {
   details: {
     age: "2 year" ,
     dateOfBirth: "19 March 2024",
-    height: "",
-    weight: "",
-    Bust: "",
-    skinTone: "",
-    hairColor: "",
-    eyeColor: "",
-    ShoeSize: "",
-    Hips: "",
-    Waist: "",
+    height: "38 inches",
+    weight: "16.15 kg",
+    Bust: "9 inches",
+    skinTone: "Fair",
+    hairColor: "Black",
+    eyeColor: "Black",
+    ShoeSize: "15 cm",
+    Hips: "23 inches",
+    Waist: "25 inches",
     location: "Jabalpur, MP, India",
   },
 
@@ -61,7 +61,7 @@ export const modelData: ModelData = {
   },
 
   // Instagram handle WITHOUT the @ (managed by parents/agency).
-  instagram: "",
+  instagram: "i_._rudra",
 
   ecommerce: [
   /**{
@@ -490,20 +490,20 @@ export const modelData: ModelData = {
    * Videos never autoplay with sound.
    */
   videos: [
-  /**{
-    title: "RudrModel Shoot",
+  {
+    title: "Rudr Model Shoot",
     category: "Fashion",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name.mp4",
+    src: "/portfolio/videos/Rudra (1).mp4",
     type: "mp4",
   },
   {
-    title: "RudrModel Shoot",
+    title: "Rudr Model Shoot",
     category: "Fashion",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name-compressed.mp4",
+    src: "/portfolio/videos/Rudra.mp4",
     type: "mp4",
-  },*/
+  },
 ],
 
    
